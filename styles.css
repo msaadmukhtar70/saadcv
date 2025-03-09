@@ -1,0 +1,89 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 30px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 3px solid #007BFF;
+}
+
+h1 {
+    margin: 0;
+    font-size: 32px;
+    font-weight: 600;
+    color: #007BFF;
+}
+
+p {
+    margin: 8px 0;
+    font-size: 16px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 24px;
+    margin-top: 30px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #007BFF;
+    color: #222;
+}
+
+.job {
+    margin-bottom: 20px;
+    padding: 15px;
+    background: #f1f3f5;
+    border-radius: 6px;
+}
+
+.job h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: #0056b3;
+}
+
+.job p {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 15px;
+    background: #007BFF;
+    color: white;
+    font-weight: bold;
+    border-radius: 0 0 8px 8px;
+}
