@@ -1,0 +1,84 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Saad Mukhtar",
+  "jobTitle": "E-commerce & Digital Marketing Expert",
+  "telephone": "+92 3010164443",
+  "email": "msaadmukhtar70@gmail.com",
+  "url": "https://techive.org/",
+  "sameAs": [
+    "https://www.linkedin.com/in/msaadmukhtar70/"
+  ],
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Midnight Green LLC",
+      "startDate": "2023-12",
+      "jobTitle": "E-commerce & Digital Marketing Manager"
+    },
+    {
+      "@type": "Organization",
+      "name": "MG Custom Goods",
+      "startDate": "2023-06",
+      "endDate": "2024-01",
+      "jobTitle": "Brand Growth & Advertising Manager"
+    },
+    {
+      "@type": "Organization",
+      "name": "PISHON RIVER LLC",
+      "startDate": "2022-11",
+      "endDate": "2023-06",
+      "jobTitle": "E-commerce Product Launch Specialist"
+    }
+  ],
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "University of Sargodha",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Pakistan"
+    },
+    "degree": "Bachelor of Science in Computer Science",
+    "startDate": "2021",
+    "endDate": "2025"
+  },
+  "knowsLanguage": [
+    {
+      "@type": "Language",
+      "name": "English",
+      "proficiencyLevel": "Fluent"
+    },
+    {
+      "@type": "Language",
+      "name": "Urdu",
+      "proficiencyLevel": "Native"
+    },
+    {
+      "@type": "Language",
+      "name": "Punjabi",
+      "proficiencyLevel": "Conversational"
+    }
+  ],
+  "knowsAbout": [
+    "Amazon FBA",
+    "Walmart Marketplace Management",
+    "PPC Advertising",
+    "SEO Optimization",
+    "Influencer Marketing",
+    "E-commerce Growth Strategies",
+    "Shopify Store Management"
+  ],
+  "award": [
+    "Co-founded Techive (Largest Tech Society at University of Sargodha)",
+    "Managed and grew multiple brands to over $1M in revenue",
+    "Completed Helium 10 Elite Program - Kevin King’s Amazon Course",
+    "Managed $200K+ in monthly ad spend",
+    "Launched & scaled multiple e-commerce brands"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "E-commerce & Digital Marketing Expert"
+  }
+}
+</script>
